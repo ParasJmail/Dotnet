@@ -226,3 +226,4 @@ C:\dev\DotnetCore\WebApplication1Empty\WebApplication1Empty\obj\Debug\net8.0\Web
 C:\dev\DotnetCore\WebApplication1Empty\WebApplication1Empty\obj\Debug\net8.0\WebAppli.C1E57976.Up2Date
 C:\dev\DotnetCore\WebApplication1Empty\WebApplication1Empty\obj\Debug\net8.0\WebApplication1Empty.RazorAssemblyInfo.cache
 C:\dev\DotnetCore\WebApplication1Empty\WebApplication1Empty\obj\Debug\net8.0\WebApplication1Empty.RazorAssemblyInfo.cs
+C:\dev\DotnetCore\WebApplication1Empty\WebApplication1Empty\obj\Debug\net8.0\WebApplication1Empty.sourcelink.json
