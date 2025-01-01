@@ -42,19 +42,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\dev\\DotnetCore\\WebApplication1Empty\\WebApplication1Empty\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1Empty\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\dev\\DotnetCore\\WebApplication1Empty\\WebApplication1Empty\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "WebApplication1Empty\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-27T11:10:58.198Z",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\dev\\DotnetCore\\WebApplication1Empty\\WebApplication1Empty\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1Empty\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\dev\\DotnetCore\\WebApplication1Empty\\WebApplication1Empty\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1Empty\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T11:09:53.835Z",
               "EditorCaption": ""
             },
             {
@@ -67,8 +67,19 @@
               "RelativeToolTip": "WebApplication1Empty\\Views\\Home\\About.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-27T11:30:37.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-27T11:30:37.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\dev\\DotnetCore\\WebApplication1Empty\\WebApplication1Empty\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1Empty\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\dev\\DotnetCore\\WebApplication1Empty\\WebApplication1Empty\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1Empty\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T11:10:58.198Z"
             },
             {
               "$type": "Document",
@@ -80,21 +91,7 @@
               "RelativeToolTip": "WebApplication1Empty\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-31T11:42:39.136Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\dev\\DotnetCore\\WebApplication1Empty\\WebApplication1Empty\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebApplication1Empty\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\dev\\DotnetCore\\WebApplication1Empty\\WebApplication1Empty\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WebApplication1Empty\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwB0AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T11:09:53.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T11:42:39.136Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "WebApplication1Empty\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T10:29:37.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-27T10:29:37.289Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "WebApplication1Empty\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-31T11:59:20.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T11:59:20.407Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "WebApplication1Empty\\Controllers\\UserController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T11:22:52.412Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-27T11:22:52.412Z"
             },
             {
               "$type": "Document",

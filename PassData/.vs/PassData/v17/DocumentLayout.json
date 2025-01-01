@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\DotnetCore\\PassData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E194E16-76E2-45A7-A835-0D1CC0E1271C}|PassData\\PassData.csproj|c:\\dev\\dotnetcore\\passdata\\passdata\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E194E16-76E2-45A7-A835-0D1CC0E1271C}|PassData\\PassData.csproj|solutionrelative:passdata\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E194E16-76E2-45A7-A835-0D1CC0E1271C}|PassData\\PassData.csproj|c:\\dev\\dotnetcore\\passdata\\passdata\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E194E16-76E2-45A7-A835-0D1CC0E1271C}|PassData\\PassData.csproj|solutionrelative:passdata\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E194E16-76E2-45A7-A835-0D1CC0E1271C}|PassData\\PassData.csproj|c:\\dev\\dotnetcore\\passdata\\passdata\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E194E16-76E2-45A7-A835-0D1CC0E1271C}|PassData\\PassData.csproj|solutionrelative:passdata\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\dev\\DotnetCore\\PassData\\PassData\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PassData\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\dev\\DotnetCore\\PassData\\PassData\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PassData\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T09:36:22.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\dev\\DotnetCore\\PassData\\PassData\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "PassData\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\dev\\DotnetCore\\PassData\\PassData\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "PassData\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T09:34:54.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\dev\\DotnetCore\\PassData\\PassData\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PassData\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\dev\\DotnetCore\\PassData\\PassData\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PassData\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAnwCgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T20:26:24.167Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
